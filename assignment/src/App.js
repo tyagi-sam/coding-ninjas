@@ -1,9 +1,10 @@
-import './App.css';
+import "./App.css";
+import EventsScreen from "./Components/EventsScreen/EventsScreen";
 
 function App() {
   return (
     <div className="App">
-      <h1>hi</h1>
+      <EventsScreen />
     </div>
   );
 }
