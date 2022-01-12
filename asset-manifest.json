@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tyagi-sam/coding-ninjas/static/css/main.4e08b828.css",
+    "main.js": "/tyagi-sam/coding-ninjas/static/js/main.93272d0d.js",
+    "index.html": "/tyagi-sam/coding-ninjas/index.html",
+    "main.4e08b828.css.map": "/tyagi-sam/coding-ninjas/static/css/main.4e08b828.css.map",
+    "main.93272d0d.js.map": "/tyagi-sam/coding-ninjas/static/js/main.93272d0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e08b828.css",
+    "static/js/main.93272d0d.js"
+  ]
+}
